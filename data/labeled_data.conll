@@ -1,0 +1,7 @@
+--- CoNLL Labeling Format Reminder ---
+Each token per line with its label:
+ምርቱ	B-Product
+እና	I-Product
+ዋጋው	B-PRICE
+1000	I-PRICE
+ብር	I-PRICE

@@ -39,11 +39,6 @@ regex
 jupyter
 ```
 
-## 🧰 Setup Instructions
-To bootstrap the environment and preprocess the data:
-
-``` bash scripts/bash_setup.sh ```
-
 ---
 
 ## 📌 Final Submission (Tasks 3 to 6)
