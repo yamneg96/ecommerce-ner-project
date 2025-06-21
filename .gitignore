@@ -1,0 +1,27 @@
+# .gitignore
+
+# Ignore system files
+.DS_Store
+Thumbs.db
+
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Jupyter checkpoint files
+.ipynb_checkpoints/
+
+# VSCode settings
+.vscode/
+
+# Environment files
+.env
+*.env
+
+# Data (optional – only ignore if very large raw files)
+*.zip
+*.tar.gz
+*.rar
+
+# Reports (optional – only keep PDFs if needed)
+*.docx
